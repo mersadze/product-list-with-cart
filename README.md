@@ -1,7 +1,3 @@
-Sure! Here’s a more casual and trimmed-down version of the `README.md`:
-
----
-
 # 🛒 Product List with Cart – Frontend Mentor Challenge
 
 Built this as part of a [Frontend Mentor](https://www.frontendmentor.io) challenge. It's a product list with a working cart — nothing too fancy, just clean and responsive.
