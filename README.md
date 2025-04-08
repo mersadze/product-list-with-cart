@@ -18,10 +18,6 @@ Built this as part of a [Frontend Mentor](https://www.frontendmentor.io) challen
 - JavaScript  
 - Data from a local `data.json`
 
-## 🚀 Live Demo
-
-[Check it out here](https://your-live-site-url.com)
-
 ## 📂 Folder Peek
 
 ```
@@ -30,6 +26,5 @@ Built this as part of a [Frontend Mentor](https://www.frontendmentor.io) challen
 ├── data.json
 ├── /assets
 ├── /design
-├── /styles
 └── /scripts
 ```
